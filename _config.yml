@@ -19,6 +19,8 @@ analytics:
   google: null
   facebook: null
   twitter: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/5c0d0b98-1c18-479d-9dcc-eda04029c83e.png
 name: Cyberdale
 cta:
   domain: null
