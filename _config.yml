@@ -1,19 +1,4 @@
-name: Cyberdale
-favicon: null
-layout_spectrum: 0.3732346147298813
 typography_spectrum: 0.057265956653282046
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#F7EDF0'
@@ -25,4 +10,20 @@ color:
   lightness: 0.45658469828777015
   saturation: 0.03735154657624662
   rhythmicContrast: 0.4092834840994328
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.3732346147298813
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Cyberdale
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: 'Cyberdale, LLC'
 purpose: []
