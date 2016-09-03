@@ -26,6 +26,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Home
+    url: cyberdale.net
+    type: external
 favicon: null
 title: 'Cyberdale, LLC'
 description: Computers Simplified.
